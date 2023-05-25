@@ -1,3 +1,3 @@
 # Sushi-game
 The eldritch sushi game
-Made by: Collette Harrison, Sam Meyer, 
+Made by: Collette Harrison, Sam Meyer, Phil Meyer
