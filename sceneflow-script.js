@@ -41,6 +41,8 @@ class Menu extends Phaser.Scene {
 
     }
     create(){
+        this.cameras.main.fadeIn(500, 0, 0, 0);
+
         this.add.text(700,300, "Sushi Game").setTint(0xaa00aa).setFontSize(75);
         this.startButton = this.add.text(200,500, "Start").setTint(0xaa00aa).setFontSize(75).setInteractive();
         this.creditButton = this.add.text(200,600, "Credits").setTint(0xaa00aa).setFontSize(75).setInteractive();
@@ -72,6 +74,8 @@ class Credits extends Phaser.Scene {
 
     }
     create(){
+        this.cameras.main.fadeIn(500, 0, 0, 0);
+
         this.add.text(200,300, "A game by Collette Harrison, Sam Meyer, Phil Meyer").setTint(0xaa00aa).setFontSize(50);
         this.backButton = this.add.text(200,600, "Go back").setTint(0xaa00aa).setFontSize(75).setInteractive();
 
@@ -97,6 +101,7 @@ class Gameplay extends Phaser.Scene {
 
     }
     create(){
+        this.cameras.main.fadeIn(500, 0, 0, 0);
         
         this.cameras.main.setBackgroundColor('0xffffff');
         this.add.text(500,400, "Gameplay Screen").setTint(0x0000ff).setFontSize(75);
@@ -159,7 +164,7 @@ class Results extends Phaser.Scene {
 
     }
     create(){
-
+        this.cameras.main.fadeIn(500, 0, 0, 0);
         
         this.cameras.main.setBackgroundColor('0x3333ff');
         this.add.text(500,200, "Results Screen").setTint(0xffffff).setFontSize(75);
