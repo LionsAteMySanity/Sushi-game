@@ -5,8 +5,8 @@ Made by: Collette Harrison, Sam Meyer, Phil Meyer
 
 
 # Scene Flow Prototype 
-_Scene types: Your prototype should demonstrate how at least four kinds of distinct types of scenes are used in your game
-_
+_Scene types: Your prototype should demonstrate how at least four kinds of distinct types of scenes are used in your game_
+
     Includes the following scenes: Cinematic, Menu, Gameplay, Results, Credits. 
 
 
