@@ -12,11 +12,14 @@ __Scene types: Your prototype should demonstrate how at least four kinds of dist
 
 __Communication between scenes: The choices that players made on one scene must have some impact on the appearance of other screens.__
 
-    Has global object(game.data) that includes the current day/level variable. Pressing 'start next day' on the Result screen increments the current day variable. This variable change can be seen in the Gameplay scene.
+    Has global object(game.data) that includes the current day/level variable. 
+    Pressing 'start next day' on the Result screen increments the current day variable. 
+    This variable change can be seen in the Gameplay scene.
 
 __Reachability: All important scenes must be reachable in the scene flow prototype.__
 
-    All scenes are accessible. For example, there are two buttons on the Menu scene. One goes to Gameplay scene, the other goes to Credits scene.
+    All scenes are accessible. For example, there are two buttons on the Menu scene. 
+    One goes to Gameplay scene, the other goes to Credits scene.
 
 __Transitions: The scene flow prototype must demonstrate the use of at least one kind of fancy transition that is appropriate to your game design.__
 
