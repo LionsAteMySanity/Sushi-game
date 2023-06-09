@@ -80,6 +80,7 @@ class Credits extends Phaser.Scene {
         this.backButton = this.add.text(200,600, "Go back").setTint(0xaa00aa).setFontSize(75).setInteractive();
 
         this.backButton.on('pointerdown', () => {
+            // do event
             this.cameras.main.fade(500, 0,0,0);
             this.time.delayedCall(500, () => this.scene.start('Menu'));
         });
