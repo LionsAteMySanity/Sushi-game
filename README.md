@@ -1,26 +1,18 @@
 # Sushi-game
 The eldritch sushi game
-Made by: Collette Harrison, Sam Meyer, Phil Meyer
+Made by: Collette Harrison (production lead), Sam Meyer (technology lead), Phil Meyer (testing lead)
 
+Deployement Link: 
 
+# Scene Flow Prototype: https://meyerphil.github.io/Sushi-game/sceneflow.html
+# Core Gameplay Prototype:
+# cinematics prototype: https://meyerphil.github.io/Sushi-game/cinematic.html
 
-# Scene Flow Prototype 
-_Scene types: Your prototype should demonstrate how at least four kinds of distinct types of scenes are used in your game_
+# Theme: 
+our game aims to achieve the theme nearby in space but distant in time by makign a game set in the familiar space of a resteraunt that makes suchi, but in a distant time in the future
 
-    Includes the following scenes: Cinematic, Menu, Gameplay, Results, Credits. 
+# selectible requirements:
+the three selectible requirements we chose were Data-driven experience progression, Advanced visual assets, and Procedural audio
 
-
-_Communication between scenes: The choices that players made on one scene must have some impact on the appearance of other screens._
-
-    Has global object(game.data) that includes the current day/level variable. 
-    Pressing 'start next day' on the Result screen increments the current day variable. 
-    This variable change can be seen in the Gameplay scene.
-
-_Reachability: All important scenes must be reachable in the scene flow prototype._
-
-    All scenes are accessible. For example, there are two buttons on the Menu scene. 
-    One goes to Gameplay scene, the other goes to Credits scene.
-
-_Transitions: The scene flow prototype must demonstrate the use of at least one kind of fancy transition that is appropriate to your game design._
-
-    We have a coordinated fade to black and from black in between scenes.
+# assets:
+all assets were created by Collette Harrison using procreate
