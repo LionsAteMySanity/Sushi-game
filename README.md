@@ -2,7 +2,7 @@
 The eldritch sushi game
 Made by: Collette Harrison (production lead), Sam Meyer (technology lead), Phil Meyer (testing lead)
 
-Deployement Link: 
+Deployement Link: https://meyerphil.github.io/Sushi-game/main.html
 
 # Scene Flow Prototype: https://meyerphil.github.io/Sushi-game/sceneflow.html
 # Core Gameplay Prototype: https://lionsatemysanity.github.io/SushiGame/
