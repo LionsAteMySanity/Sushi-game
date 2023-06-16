@@ -4,6 +4,10 @@ Made by: Collette Harrison (production lead), Sam Meyer (technology lead), Phil 
 
 Deployement Link: https://meyerphil.github.io/Sushi-game/main.html
 
+QR CODES:
+https://docs.google.com/document/d/1OCr9rp0VlNYP-vUVlu8D3suuzOXuk0KTULZZULqXxO8/edit?usp=sharing
+
+
 # Scene Flow Prototype: https://meyerphil.github.io/Sushi-game/sceneflow.html
 # Core Gameplay Prototype: https://lionsatemysanity.github.io/SushiGame/
 # cinematics prototype: https://meyerphil.github.io/Sushi-game/cinematic.html
