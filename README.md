@@ -5,8 +5,8 @@ Made by: Collette Harrison (production lead), Sam Meyer (technology lead), Phil 
 Deployement Link: 
 
 # Scene Flow Prototype: https://meyerphil.github.io/Sushi-game/sceneflow.html
-# Core Gameplay Prototype: 
-# cinematics prototype:
+# Core Gameplay Prototype:
+# cinematics prototype: https://meyerphil.github.io/Sushi-game/cinematic.html
 
 # Theme: 
 our game aims to achieve the theme nearby in space but distant in time by makign a game set in the familiar space of a resteraunt that makes suchi, but in a distant time in the future
