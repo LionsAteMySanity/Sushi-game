@@ -1,0 +1,11 @@
+{
+    "tutorial": ["You own a sushi restaurant and must make sushi for your customers to make money you can spend at the end of your day at the online market. You are working in a distant future, and all your customers are aliens that speak an unfamiliar language but don't worry! All the ingredients have helpful labels that tell you which ingredient is which. All you have to do is read the customer's order, decipher which words correspond to labeled ingredients, and then click and drag those ingredients to the final plating space.", 
+    "next page",
+    "The final plating space is labeled and is referred to by every alien at the end of their order. Once you complete an order, click and drag it to an alien. If the order is correct, you will gain some money!Once you complete some orders, you will be brought to the results(right) and buying screen (left). Each time you click on a fish on the buying screen, you spend some of your money. The results screen lets you know how much of every ingredient you have and how much money you have left. After you buy the fish you want, press next to move on to a new day!",
+    "If you still aren't quite sure what to do, we have provided an example gameplay video that you can watch!",
+    "Play tutorial video",
+    "Play!"],
+
+    "credits": ["A game by Collette Harrison, Sam Meyer, Phil Meyer"]
+
+}
