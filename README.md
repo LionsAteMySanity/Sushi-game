@@ -12,7 +12,8 @@ Deployement Link:
 our game aims to achieve the theme nearby in space but distant in time by making a game set in the familiar space of a restaurant that makes sushi, but in a distant time in the future
 
 # selectable requirements:
-the three selectable requirements we chose were Data-driven experience progression, Advanced visual assets, and Procedural audio
+the three selectable requirements we chose were Data-driven experience progression, Advanced visual assets, and Procedural audio.
+For procedural audio, we used Tone.js to randomly generate music as you are playing, helping create an eerie atmosphere, and furthering our theme.
 
 # assets:
 all assets were created by Collette Harrison using procreate
