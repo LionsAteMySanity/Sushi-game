@@ -9,10 +9,10 @@ Deployement Link:
 # cinematics prototype: https://meyerphil.github.io/Sushi-game/cinematic.html
 
 # Theme: 
-our game aims to achieve the theme nearby in space but distant in time by makign a game set in the familiar space of a resteraunt that makes suchi, but in a distant time in the future
+our game aims to achieve the theme nearby in space but distant in time by making a game set in the familiar space of a restaurant that makes sushi, but in a distant time in the future
 
-# selectible requirements:
-the three selectible requirements we chose were Data-driven experience progression, Advanced visual assets, and Procedural audio
+# selectable requirements:
+the three selectable requirements we chose were Data-driven experience progression, Advanced visual assets, and Procedural audio
 
 # assets:
 all assets were created by Collette Harrison using procreate
